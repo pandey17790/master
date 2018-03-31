@@ -1,1 +1,2 @@
 line#1: This is first line.
+line#2: This is second line.
